@@ -1,0 +1,14 @@
+.fondo {
+    background: url(todas2.jpg);
+    background-size: cover;
+}
+h1 {
+  color:rgba(0,0,0,0.7);
+  font-family: 'Quicksand', sans-serif;
+  font-size: 90px;
+  font-weight: 800;
+  line-height: 400px;
+  text-align: center;
+  text-transform: uppercase;
+    letter-spacing: 0.0001em;
+}
