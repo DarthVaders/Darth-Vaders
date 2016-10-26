@@ -70,8 +70,11 @@ h3 {
     font-size: 40px;
     padding-left: 150px;
 }
-h4 {
+h4 {s
     font-size: 35px;
     text-align: center;
     background-color: aquamarine;
+}
+img{ 
+border-width: 27px;
 }
