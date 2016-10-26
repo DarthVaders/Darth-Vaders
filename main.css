@@ -57,9 +57,7 @@ h2 {
     font-size: 50px;
     line-height: 50px;
 }
-ul {
-    font-size: 40px;
-}
+
 h3 {
    font-size: 75px;
     font-family: Trirong;
@@ -68,8 +66,9 @@ h3 {
     line-height: 100px;
     margin-bottom: 0; 
 }
-.lis {
+.lis, ul {
     font-size: 40px;
+    padding-left: 150px;
 }
 h4 {
     font-size: 35px;
