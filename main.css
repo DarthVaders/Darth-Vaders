@@ -94,3 +94,7 @@ h4 {
   border-radius: 70px;
   border: solid palevioletred; 
 }
+.frase {
+    line-height: 50px;
+    text-align: center;
+}
