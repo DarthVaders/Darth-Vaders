@@ -51,13 +51,17 @@ h2 {
   animation: ease;
 }
 .acron {
-    padding: 10px 80px 10px 250px;
+    padding: 20px 0px;
     font-family: Trirong;
     font-weight: bold;
     font-size: 50px;
     line-height: 50px;
+    background: #EEEFF1;
+    box-sizing: border-box;
+    text-align: center;
+    width: 90%;
+    margin: 20px auto;
 }
-
 h3 {
    font-size: 75px;
     font-family: Trirong;
@@ -70,11 +74,23 @@ h3 {
     font-size: 40px;
     padding-left: 150px;
 }
-h4 {s
+h4 {
     font-size: 35px;
     text-align: center;
-    background-color: aquamarine;
+    background-color: palevioletred;
 }
-img{ 
-border-width: 27px;
+
+.valor {
+  display: inline-block;
+  margin: 0px 2% 80px 2%;
+  text-align: center;
+  width: 45%;
+}
+.bor {
+  border-radius: 25px;
+  border: solid black; 
+}
+.rad{
+  border-radius: 70px;
+  border: solid palevioletred; 
 }
