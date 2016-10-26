@@ -21,6 +21,9 @@ h2 {
     font-size: 75px;
     font-family: Trirong;
     text-align: center;
+    margin-top: 0;
+    line-height: 30px;
+    margin-bottom: 0;
 }
 .boton {
   border: 1px solid #DDD;
@@ -52,4 +55,24 @@ h2 {
     font-family: Trirong;
     font-weight: bold;
     font-size: 50px;
+    line-height: 50px;
+}
+ul {
+    font-size: 40px;
+}
+h3 {
+   font-size: 75px;
+    font-family: Trirong;
+    text-align: center;
+    margin-top: 0;
+    line-height: 100px;
+    margin-bottom: 0; 
+}
+.lis {
+    font-size: 40px;
+}
+h4 {
+    font-size: 35px;
+    text-align: center;
+    background-color: aquamarine;
 }
