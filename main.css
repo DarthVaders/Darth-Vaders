@@ -17,6 +17,18 @@ h1 {
   text-transform: uppercase;
   margin-top: 0;
   }
+h2 {
+    font-size: 75px;
+    font-family: Trirong;
+    text-align: center;
+}
+.boton {
+  border: 1px solid #DDD;
+  padding: 40px 0px;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
 .boton a {
     background: #0033cc;
     border: 1px solid #0033cc;
@@ -34,3 +46,10 @@ h1 {
   border: 1px solid #0033cc;
   color: #0033cc;
   animation: ease;
+}
+.acron {
+    padding: 10px 80px 10px 250px;
+    font-family: Trirong;
+    font-weight: bold;
+    font-size: 50px;
+}
